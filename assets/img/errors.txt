@@ -1,0 +1,3 @@
+[4/10/2017, 11:11:01 PM] layer "menu_pict-4.png8": Duplicate path: menu_pict-4.png
+[4/10/2017, 11:11:01 PM] layer "Production / Distribution / Presse  cyril(at)holiprod.com    Co": Filename begins with whitespace
+[4/10/2017, 11:11:01 PM] layer "Pour toutes autres informations : contact@holiprod.com": Unsupported extension: com
